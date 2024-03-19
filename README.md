@@ -339,6 +339,8 @@ In conclusion, by introducing core OG opinions, establishing voting mechanisms, 
 ### 9.2 MegaWise Funding System
 
 The total amount of ecological tokens required for approved proposals will either exceed the total accumulated amount during the 30-day period, or be lower than that amount. If the total sum of approved proposals exceeds the available funds in the funding block, miners will build the funding block based on the order in which they were submitted to the blockchain, giving priority to earlier proposals. The remaining approved proposals will be kept on the blockchain until the next funding block.
-10 Conclusion
+
+### 10 Conclusion
+
 MegaWise proposes an anonymous transaction and decentralized communication model built by incentivizing nodes through economics. MegaWise utilizes the foundation of the CryptoNote protocol to ensure privacy and implements a staking node system to enhance network resilience and functionality.
 Additionally, MegaWise improves on previous research and open-source projects proposed by the Loki project and adopts a new anonymous routing protocol proposed by Loki. The unique architecture and protocol design of MegaWise combined to create a network with market resistance to Sybil attacks, reducing the effectiveness of time analysis and providing users with a highly digital de-monetized data process.
